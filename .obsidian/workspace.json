@@ -6,7 +6,7 @@
       {
         "id": "592a1e17e290fbad",
         "type": "tabs",
-        "dimension": 56.85096153846154,
+        "dimension": 64.0625,
         "children": [
           {
             "id": "aed536bec47c0641",
@@ -42,7 +42,7 @@
       {
         "id": "50341f4c6263d140",
         "type": "tabs",
-        "dimension": 43.14903846153847,
+        "dimension": 35.9375,
         "children": [
           {
             "id": "cc1b072f8953d03f",
@@ -225,6 +225,7 @@
   "lastOpenFiles": [
     "temp.md",
     "体系结构/期末/复习PPT讲解.md",
+    "images/总结image/Pasted image 20251231175941.png",
     "体系结构/课件解析/L01 简单流水线.md"
   ]
 }
