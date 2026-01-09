@@ -11,10 +11,14 @@
             "id": "69b70af1eee09965",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "体系结构/期末/复习PPT讲解.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "复习PPT讲解"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "right": {
     "id": "d306a4f80171681d",
@@ -179,7 +183,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "99a7932ee60ef0f3",
+  "active": "69b70af1eee09965",
   "lastOpenFiles": [
     "images/总结image/Pasted image 20260102154406.png",
     "images/总结image/Pasted image 20260102150703.png",

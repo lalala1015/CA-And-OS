@@ -1,1 +1,5 @@
-{}
+{
+  "baseFontSizeAction": true,
+  "baseFontSize": 22,
+  "cssTheme": "Things"
+}
